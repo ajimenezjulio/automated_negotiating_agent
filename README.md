@@ -31,3 +31,9 @@ The Threshold function `T(t)` plays a crucial role for the good performance of t
 <p align="center"><img align="center" src="https://i.upmath.me/svg/%0AT(t)%20%3D%20%5Calpha%20%5Cpm%20t%20%5Ctimes%20%5Cbeta%0A" alt="
 T(t) = \alpha \pm t \times \beta
 " /></p>
+
+The utility graph shows a very good performance of the Agent getting most of the negotiation above the 80% utility and a big amount over the 90%.
+
+<p align="center">
+<img src="https://github.com/ajimenezjulio/automated_negotiating_agent/blob/master/UtilityGraph.png" alt="utility graph" width="500">
+</p>
